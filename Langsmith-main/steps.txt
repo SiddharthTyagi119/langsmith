@@ -1,0 +1,3 @@
+api's in .env 
+requirements.txt
+app.py
